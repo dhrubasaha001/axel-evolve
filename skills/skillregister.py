@@ -20,5 +20,3 @@ def check_skills(required_skills):
         ).exists()
         for skill in required_skills
     }
-
-

@@ -9,4 +9,3 @@ result = analyze_task(prompt)
 skills = check_skills(result['required_skills'])
 print("Task Analysis Result:", result)
 print("Availability of that required Skills:", skills)
-
